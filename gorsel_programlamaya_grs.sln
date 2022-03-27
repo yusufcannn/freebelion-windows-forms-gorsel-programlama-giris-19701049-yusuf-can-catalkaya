@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gorsel_programlamaya_grs", "gorsel_programlamaya_grs\gorsel_programlamaya_grs.csproj", "{B69E8656-7F1A-4168-932B-5F750647C542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69E8656-7F1A-4168-932B-5F750647C542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69E8656-7F1A-4168-932B-5F750647C542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69E8656-7F1A-4168-932B-5F750647C542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69E8656-7F1A-4168-932B-5F750647C542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D92BCE-454C-4E0C-AFB9-2157E9DF7DE8}
+	EndGlobalSection
+EndGlobal

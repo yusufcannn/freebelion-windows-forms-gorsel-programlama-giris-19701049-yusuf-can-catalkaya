@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\bin\Debug\gorsel_programlamaya_grs.exe.config
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\bin\Debug\gorsel_programlamaya_grs.exe
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\bin\Debug\gorsel_programlamaya_grs.pdb
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\obj\Debug\gorsel_programlamaya_grs.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\obj\Debug\gorsel_programlamaya_grs.Form1.resources
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\obj\Debug\gorsel_programlamaya_grs.Properties.Resources.resources
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\obj\Debug\gorsel_programlamaya_grs.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\obj\Debug\gorsel_programlamaya_grs.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\obj\Debug\gorsel_programlamaya_grs.exe
+C:\Users\yusuf\source\repos\gorsel_programlamaya_grs\gorsel_programlamaya_grs\obj\Debug\gorsel_programlamaya_grs.pdb
